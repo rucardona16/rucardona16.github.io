@@ -1587,3 +1587,13 @@ section {
     padding-top: 4px;
   }
 }
+a.nav-link.scrollto.btncinco b {
+  background: #df9721;
+  padding: 2% 12%;
+  border: 1px solid;
+  border-radius: 15px;
+  color: white;
+}
+a.nav-link.scrollto.btncinco b:hover{
+  background-color: #df9721;
+}
